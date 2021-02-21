@@ -49,8 +49,8 @@
         "activityBarBadge.background": "#00b0ff",
         "activityBarBadge.foreground": "#FFFFFF",
 
-        "sideBar.background": "#23262E",
-        "sideBarSectionHeader.background": "#23262E",
+        "sideBar.background": "#171933",
+        "sideBarSectionHeader.background": "#171933",
         "sideBarTitle.foreground": "#FFF",
         "sideBar.foreground": "#FFF",
 
@@ -144,7 +144,7 @@
         "terminalCursor.background": "#23262E",
         "terminalCursor.foreground": "#FFE66D",
 
-        "titleBar.activeBackground": "#23262E",
+        "titleBar.activeBackground": "#171933",
 
         "extensionButton.prominentBackground": "#2188ff",
         "extensionButton.prominentHoverBackground": "#2188ff",

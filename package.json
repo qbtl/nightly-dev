@@ -2,12 +2,13 @@
     "name": "nightly-dev",
     "displayName": "Nightly-Dev",
     "description": "Dark theme inspired by Andromeda for developers",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "author": {
         "name": "Quentin Boitel",
         "url": "https://github.com/qbtl",
         "email": "quentin.boitel@isen.yncrea.fr"
     },
+    "publisher": "qbtl",
     "repository": {
 		"url": "https://github.com/qbtl/Nightly-Dev"
 	},
